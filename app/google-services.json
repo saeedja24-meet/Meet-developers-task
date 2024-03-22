@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "944676708692",
+    "firebase_url": "https://developertaskmeet-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "developertaskmeet",
+    "storage_bucket": "developertaskmeet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944676708692:android:cab86f7bb5b5c3f94c28c1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCji-bhCiv44ZeJq0b2lm_9lx_3yuWwU6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
